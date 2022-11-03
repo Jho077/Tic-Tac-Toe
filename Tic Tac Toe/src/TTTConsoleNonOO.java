@@ -12,7 +12,7 @@ public class TTTConsoleNonOO {
    public static final int NOUGHT  = 1;
    public static final int NO_SEED = 2;
 
-   // The game board
+   // The game pantalla
    public static final int ROWS = 3, COLS = 3;  // number of rows/columns
    public static int[][] board = new int[ROWS][COLS]; // EMPTY, CROSS, NOUGHT
 
